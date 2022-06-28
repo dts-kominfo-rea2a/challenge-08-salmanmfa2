@@ -1,0 +1,23 @@
+body {
+    background-color: #e7fd56;
+
+}
+#container {
+    background-color: aliceblue;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    text-align: center;
+    border-radius: 10px;
+    min-height:300px;
+
+}
+#todo-input {
+    border-radius: 20px;
+    width: 18em;
+
+
+}
+.output {
+    text-align: left;
+}
